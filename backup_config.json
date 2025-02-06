@@ -1,0 +1,19 @@
+{
+    "css": {
+        "host": "tooling3",
+        "port": 2284,
+        "database": "postgres",
+        "user": "operator",
+        "password": "",
+        "schema": "Imaging_Indicator",
+        "pg_dump_path": "C:\\Program Files\\Cast\\CastStorageService4\\bin\\pg_dump.exe"
+    },
+    "backup": {
+        "backup_dir": "R:\\IN\\ImagingInidicators\\Backup"
+    },
+    "map_drive": {
+        "name": "R",
+        "user": "gaicuser",
+        "password": ""
+    }
+}
